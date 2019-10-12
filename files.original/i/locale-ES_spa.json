@@ -1,0 +1,323 @@
+{
+  "locale": {
+    "alert": {
+      "message": {
+        "GENERIC_VALIDATE_MSG": "Please enter required value",
+        "PASS_MISSMATCH_MSG": "Password confirmation must match Password",
+        "PASS_VALIDATE_MSG": "Must contain at least one number, one special character and lowercase character, and at least 8 or more characters",
+        "Holiday_Date_Valid": "Dates already selected.",
+        "Record_Exists": "registro existe",
+        "Warning": "Advertencia",
+        "Alert": "Alerta",
+        "Are_You_Sure": "¿Estás seguro de que deseas continuar?",
+        "Session_Expire": "Session Expire",
+        "Session_Expire_Txt": "Your session is going to expire, <br><br>do you want to stay logged in?",
+        "Language_Conversion": "Information",
+        "Language_Conversion_Txt": "<br>Do you want to continue in your local language, Click yes?"
+      },
+      "title": {}
+    },
+    "Global": { "Last_Updated": "Última actualización" },
+    "Homepage": {
+      "Header": {
+        "Menu": [
+          "How it works",
+          "About us",
+          "Preguntas más frecuentes",
+          "Contact us"
+        ]
+      },
+      "Body": {
+        "MainTitle": "Welcome to the Nielsen Home Panel Website",
+        "GDPR": "GDPR please click here for more information",
+        "Button": { "Login": "Member Login", "Get_Started": "GET STARTED" },
+        "HowItWOrks": {
+          "Title": "How it works",
+          "Get_Started": {
+            "Title": "Get Started",
+            "Message": "To enter the site key in your</br> 10 digit panel member number and password.</br> If you are a new panel member please use</br> the first time login button in the member login button.",
+            "Message_Old": "You must have received your</br> panel member id & password,</br> use same to login here. you</br> can change password too."
+          },
+          "Track_Activites": {
+            "Title": "Track Activities",
+            "Message": "You can track day-to-day</br> household purchase with our</br> mobile scan app and upload in</br> your profile."
+          },
+          "Get_Rewarded": {
+            "Title": "Your Rewards",
+            "Message": "View our gift catalogue to redeem</br> your reward points."
+          }
+        },
+        "About_us": {
+          "Title": "Why CPS Portal?",
+          "Message": "Fusce vehicula dolor arcu, sit amet blandit dolor mollis nec. Donec viverra eleifend lacus, vitae ullamcorper metus. Sed sollicitudin ipsum quis nunc sollicitudin ultrices. Donec</br> euismod scelerisque ligula. Maecenas eu varius risus, eu aliquet arcu.",
+          "Right_content": "Screenshot of inner screen of portal",
+          "Feature_1": {
+            "Title": "Feature 1",
+            "Message": "Donec facilisis tortor ut augue lacinia, at viverra est semper. Sed sapien metus, scelerisque nec pharetra id, tempor a tortor. Pellentesque non dignissim neque. Ut porta."
+          },
+          "Feature_2": { "Title": "Feature 2", "Message": "" },
+          "Feature_3": { "Title": "Feature 3", "Message": "" },
+          "Feature_4": { "Title": "Feature 4", "Message": "" }
+        }
+      },
+      "Footer": {
+        "CopyRight": "Copyright © 2018</br>The Nielsen Company. All Rights Reserved.",
+        "Menu": {
+          "Row_1": [
+            "Support",
+            "Preguntas más frecuentes",
+            "Help Center",
+            "Terms of Service",
+            "Privacy Policy"
+          ],
+          "Row_2": ["About", "Company", "Blog"],
+          "Row_3": ["Contact", "Email Us", "Customer care 24x7"],
+          "SocialIconHover": ["TWITER", "FACEBOOK", "LINKEDIN"]
+        }
+      }
+    },
+    "Login": {
+      "Header": {},
+      "Body": {
+        "Title": "MEMBER LOGIN",
+        "Login_Text_Field": "Panel Member ID",
+        "Login_Pass_Field": "Contraseña",
+        "Show_Pass": "Show Password",
+        "Hide_Pass": "Hide Password",
+        "Remember_me": "Remember Me?",
+        "ForgotLabel": "Forgot ID/Password?",
+        "Login_Btn": "Iniciar sesión",
+        "First_Time_Login": "First time Login?",
+        "First_Time_Link": "Get Started",
+        "Want_To_Member": " Want to become a member?",
+        "Want_To_Member_Btn": "Online Registration"
+      },
+      "Footer": {
+        "CopyRight": "Copyright © 2018 The Nielsen Company. All Rights Reserved."
+      }
+    },
+    "Forgot": {
+      "Header": {},
+      "Body": {
+        "Captcha_not_Valid": "Not valid Captcha",
+        "Retrive_Pass": "RETRIEVE PASSWORD",
+        "Back_To_Login": "Back to login",
+        "Retrive_Pass_Text_Title": "We are sending you an email containing a temporary password.",
+        "Retrive_Pass_Text_Msg": "If the email takes more than a few minutes to arrive,</br>please check your spam folder.</br>",
+        "Forgor_Member_Id_Title": "We request you to get in touch with Helpdesk.",
+        "Forgor_Member_Id_Msg": "Call on",
+        "Confirm_Popup_Btn_Txt": "De acuerdo"
+      }
+    },
+    "Signup": {
+      "Header": {},
+      "Body": {
+        "Step_1": {
+          "Title": "FIRST TIME LOGIN?",
+          "Post_Code": "Post Code",
+          "New_Pass": "Create Password",
+          "Cnf_Pass": "Confirm Password",
+          "Signup_Next_Step_Btn": "SUBMIT & NEXT STEP",
+          "Signup_Btn": "SUBMIT",
+          "Existing_User_Text": "Not a first time login?",
+          "Existing_User_Btn": "Click here"
+        },
+        "Step_2": {
+          "Title": "SET SECURITY QUESTIONS?",
+          "Title_1": "Panel Member ID:",
+          "Sec_Ques": "Security Question",
+          "Sec_Ques_Ans": "Answer"
+        }
+      }
+    },
+    "Reset": {
+      "Header": {},
+      "Body": {
+        "Title": "CHANGE PASSWORD?",
+        "Temp_Pass_Lbl": "Temporary Password",
+        "Old_Pass_Lbl": "Old Password",
+        "New_Pass_Lbl": "New Password",
+        "Confirm_Pass_Lbl": "Confirm Password"
+      }
+    },
+    "Dashboard": {
+      "Header": {
+        "Menu": [
+          "Home",
+          "Rewards",
+          "My Profile",
+          "tiendas favoritas",
+          "Support Center",
+          "About us",
+          "Contact us",
+          "Our History",
+          "Fiesta",
+          "FAQ's",
+          "Newsletter"
+        ],
+        "Details": {
+          "Last_Data_Trans": "Last Transmission Date",
+          "Total_Bal_Point": "Total Points Balance",
+          "rweard_locked_Point": "Reward Points Locked",
+          "logout_text": "Logout",
+          "Search_Btn": "Buscar",
+          "Mark_Abs": "DECLARE HOLIDAY",
+          "Cnange_Abs": "CHANGE ABSENCE"
+        }
+      },
+      "Body": {
+        "Latest_Msg": "LATEST MESSAGE",
+        "Older_Msg": "OLDER MESSAGE",
+        "Read_More": "Read more...",
+        "Load_More_Msg": "LOAD MORE MESSAGES",
+        "Previous": "Previous",
+        "Next": "Next"
+      },
+      "Footer": {
+        "Call_Back_Title": "If you have questions just",
+        "Call_Back_Title_2": "CONTACT US",
+        "Call_The_HelpDesk": "Call the Helpdesk",
+        "Request_CallBack": "REQUEST CALLBACK",
+        "Chat_Agent": "Chat with an agent",
+        "Chat_Agent_Text": "start",
+        "Copyright": "Copyright © 2018</br>The Nielsen Company. All Rights Reserved.",
+        "Contactus_Title": "WRITE AN EMAIL TO US",
+        "Contact_Form_Field_1": "Categoría",
+        "Contact_Form_Field_2": "Descripción",
+        "Contact_Form_Field_3": "Sub Categoría",
+        "Contact_Form_Field_4": "Request Callback",
+        "Contact_Form_Field_5": "Request Type",
+        "Contact_Form_Btn": "SEND"
+      }
+    },
+    "CallBack": {
+      "REQUEST_INSTANT_CALLBACK": "REQUEST INSTANT CALLBACK",
+      "Panel_Member_ID": "Panel Member ID",
+      "HelpDesk_msg": "Submit below details to get a callback from Helpdesk",
+      "Best_day_for_contact": "Best day for contact",
+      "Best_time_for_contact": "Best time for contact",
+      "between": "between",
+      "Submit": "Enviar"
+    },
+    "Fav_Store": {
+      "SEARCH_STORE": "SEARCH STORE",
+      "Name": "Nombre",
+      "Type": "Tipo",
+      "Province": "Province",
+      "Address": "Dirección",
+      "City": "Ciudad",
+      "Pin_Code": "Pin Code",
+      "SUBMIT": "SUBMIT",
+      "CLEAR": "CLEAR",
+      "FILTERS": "FILTERS",
+      "YOUR_FAVORITE_STORES": "YOUR FAVORITE STORES",
+      "Back_to_favorite_store_list": "Back to favorite store list",
+      "Remove_from_favourite": "Remove from favorite",
+      "Add_to_favourite": "Add to favorite",
+      "No_Record": "Unable to see your store in list, click on below button to add store request.",
+      "New_Store": "New Store Request",
+      "Remove": "Remove",
+      "Cancel": "Cancelar",
+      "NEW_STORE_REQUEST": "NEW STORE REQUEST",
+      "Store_Name": "Store Name",
+      "Store_Type": "Store Type",
+      "Address_Line": "Dirección",
+      "Store_City": "Store City",
+      "Store_Post_Code": "Store Post Code",
+      "Drop_Store_Text": "These changes in order of store will be same in you device.</br>Are you sure to update the store list order?",
+      "Update": "Actualizar",
+      "All_STORES": "All STORES",
+      "Remove_Fav_Txt": "Are you sure you want to remove this</br>from your favorite store?",
+      "Add_Fav_Txt": "Are you sure you want to add this in your</br>favorite store list?",
+      "Add": "Añadir",
+      "Success": "Success"
+    },
+    "Holiday": {
+      "Holiday": "Fiesta",
+      "No_record_found": "No record found",
+      "Holiday_Reason": "Razón de vacaciones",
+      "Start_Date": "Fecha de inicio",
+      "End_Date": "Fecha final",
+      "Edit_Dates": "Edit Dates",
+      "Delete_Dates": "Delete Dates",
+      "Reason": "Reason",
+      "Submit": "Enviar",
+      "Date_Valid": "is not a valid date - it must be in the format YYYY-MM-DD",
+      "Remove": "Remove",
+      "Are_you_sure": "<br/> Are you sure?",
+      "Today": "Today"
+    },
+    "FAQ": {
+      "No_record_found": "No FAQ's found",
+      "FAQs": "FAQs",
+      "Search": "Buscar",
+      "Section": "Section",
+      "Scanning": "Scanning",
+      "ScannerTroubleshooting": "Scanner Troubleshooting",
+      "GiftPoints": "Gift Points",
+      "Clear": "Claro"
+    },
+    "Profile": {
+      "Change_Password": "Change Password",
+      "Old_Password": "Old Password",
+      "New_Password": "New Password",
+      "Confirm_Password": "Confirm Password",
+      "Pass_SUBMIT": "SUBMIT",
+      "Update_Address": "Update Address",
+      "Set_Default": "Set Default",
+      "Update_Details": "Update Details",
+      "Name": "Nombre",
+      "Home_Phone_Number": "Home Phone Number",
+      "Mobile_Phone_Number": "Mobile Phone Number",
+      "Email_Address": "Dirección de correo electrónico",
+      "Personal_Details": "Personal Details",
+      "Edit_Details": "Edit Details",
+      "Edit_Email": "Edit Email",
+      "Update": "Actualizar",
+      "Update_Email_Address": "Update Email Address",
+      "Delete_Email": "Delete Email",
+      "Address": "Dirección",
+      "Edit_Address": "Editar dirección",
+      "Pending_for_approval": "Pending for approval",
+      "Information": "Information",
+      "Information_Txt": "Please contact System Administrator to add email.",
+      "Remove_Email_txt": "Are you sure, want to remove email address?",
+      "Ok": "De acuerdo",
+      "Address_Line": "Dirección",
+      "Neighborhood": "Neighborhood",
+      "City": "Ciudad",
+      "State": "Estado",
+      "Postal_Code": "Código postal",
+      "Postal_Code_Extension": "Postal Code Extension",
+      "Yes": "Sí",
+      "No": "No",
+      "FavouriteStoreQuestion": "Do you need to update your Favourite Store list?",
+      "Success": "Éxito",
+      "BlankErrorMessage": "This field is required",
+      "AddressLine1": "Address Line 1",
+      "AddressLine2": "Address Line 2",
+      "AddressLine3": "Address Line 3",
+      "AddressLine4": "Address Line 4",
+      "AddressLine5": "Address Line 5",
+      "Landmark": "Landmark",
+      "PostalCode": "Postal Code",
+      "PostalCodeExtension": "Postal Code Extension"
+    },
+    "Reward": {
+      "Rewards": "Rewards",
+      "Print": "Print",
+      "Print_Statement": "Print Statement",
+      "No_record_found": "No record found",
+      "Date": "Transaction Date",
+      "Period": "Reward Reference",
+      "Transaction_Type": "Transaction Type",
+      "Points": "Reward Amount",
+      "Comment": "Reward Comment",
+      "Reward_Catalog": "Reward Catalog",
+      "Current": "Current"
+    },
+    "Search": {
+      "Search_Result": "Search Result"
+    }
+  }
+}

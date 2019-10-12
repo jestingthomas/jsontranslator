@@ -1,0 +1,14 @@
+{
+  "name": "jsontranslator",
+  "version": "1.0.0",
+  "description": "This library translates a JSON file according to the language dictionary provided.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jestin",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx-to-json": "^0.3.0"
+  }
+}
